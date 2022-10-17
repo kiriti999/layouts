@@ -1,0 +1,3 @@
+[submodule "gofleet-activity"]
+	path = gofleet-activity
+	url = https://github.com/kiriti999/gofleet-activity.git
