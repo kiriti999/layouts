@@ -6,12 +6,7 @@
     margin: 10px;
 }
 
-.header,
-.menu,
-.body,
-.article,
-.sidebar,
-.footer {
+.header, .menu, .body, .article, .sidebar, .footer {
     /* border: 1px solid black; */
 }
 
